@@ -35,11 +35,6 @@ This project focuses on predicting employee attrition using **machine learning t
 - Important factors influencing attrition include **Job Role, Monthly Income, Overtime, and Job Satisfaction**.
 - HR teams can use these insights for **improving retention strategies**.
 
-##  Next Steps
-- Experiment with **other ML models** (e.g., XGBoost, Logistic Regression)
-- Perform **hyperparameter tuning** for better performance
-- Deploy the model for real-time attrition prediction
-
 ##  How to Run the Project
 1. Install dependencies:
    ```bash
